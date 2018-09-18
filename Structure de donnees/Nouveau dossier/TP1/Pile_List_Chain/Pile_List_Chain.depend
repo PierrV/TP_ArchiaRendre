@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537175927 source:c:\users\20180365\documents\structure de donnees\nouveau dossier\tp1\pile_list_chain\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1537173679 c:\users\20180365\documents\structure de donnees\nouveau dossier\tp1\pile_list_chain\stack.h
+
