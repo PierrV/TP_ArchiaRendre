@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537466996 source:c:\users\20180365\documents\structure de donnees\nouveau dossier\tp1\fichier\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stack.h"
+	<unistd.h>
+	<sys/types.h>
+
+1537372643 c:\users\20180365\documents\structure de donnees\nouveau dossier\tp1\fichier\stack.h
+
